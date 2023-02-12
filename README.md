@@ -8,3 +8,7 @@
 
 - [0x00](./0x00-shell_basics) : Writing basic bash scripts that perform basic stuff.
 - [0x01](./0x01-shell_permissions) : Linux permissions.
+
+## Contributors
+
+- @[**dana elshrbiny**](https://github.com/danaelshrbiny10) `Full stack developer`
