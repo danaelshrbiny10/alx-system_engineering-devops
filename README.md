@@ -1,7 +1,5 @@
 ## alx-system_engineering-devops
->Learning bash, scripting, networking and web infra right now
 
-## About
 - This repository consists of all the Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering in partnership with [Holberton School](https://www.holbertonschool.com/)
 
 ---
