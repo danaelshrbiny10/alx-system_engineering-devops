@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash 
+=======
+#!/bin/bash
+>>>>>>> 1543e5ff9b7ae45fb964f29e43de98ed96ab3322
 ls -1t | head -10

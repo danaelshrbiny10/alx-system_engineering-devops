@@ -8,6 +8,10 @@
 - Bash [Shell initialization files](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html).
 - [The alias Command](http://www.linfo.org/alias.html).
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1543e5ff9b7ae45fb964f29e43de98ed96ab3322
 ## Tasks
 
 0. [\<o>](./0-alias) : A script that creates an alias.
