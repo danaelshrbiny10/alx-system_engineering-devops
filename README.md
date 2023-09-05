@@ -18,4 +18,6 @@
 - [command_line_for_the_win](./command_line_for_the_win)
 - [0x0A-configuration_management](./0x0A-configuration_management)
 - [attack_is_the_best_defense](./attack_is_the_best_defense)
+- [0x0F-load_balancer](./0x0F-load_balancer)
+-[0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
 
