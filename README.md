@@ -1,4 +1,4 @@
-## alx-system_engineering-devops
+# alx-system_engineering-devops
 
 - This repository consists of all the Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering in partnership with [Holberton School](https://www.holbertonschool.com/)
 
@@ -19,3 +19,4 @@
 - [0x10-https_ssl](./0x10-https_ssl)
 - [attack_is_the_best_defense](./attack_is_the_best_defense)
 - [command_line_for_the_win](./command_line_for_the_win)
+- [0x1A-application_server](./0x1A-application_server)
