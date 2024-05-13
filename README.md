@@ -19,4 +19,6 @@
 - [0x10-https_ssl](./0x10-https_ssl)
 - [attack_is_the_best_defense](./attack_is_the_best_defense)
 - [command_line_for_the_win](./command_line_for_the_win)
+- [0x19-postmortem](./0x19-postmortem)
 - [0x1A-application_server](./0x1A-application_server)
+- [0x1B-web_stack_debugging_4](./0x1B-web_stack_debugging_4)
